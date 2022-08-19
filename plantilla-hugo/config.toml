@@ -1,8 +1,7 @@
-baseURL = 'https://baorozcoc.github.io/Plantilla-Hugo'
+baseURL = 'https://Baorozcoc.github.io/Plantilla-Hugo'
 languageCode = 'en-us'
 title = 'Plantilla Hugo'
 theme = "m10c"
-publishDir = "docs"
 
 [menu]
   [[menu.main]]
