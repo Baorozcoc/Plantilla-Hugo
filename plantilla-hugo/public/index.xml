@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plantilla Hugo</title>
+    <link>https://baorozcoc.github.io/plantilla-hugo/</link>
+    <description>Recent content on Plantilla Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Aug 2022 09:51:12 -0500</lastBuildDate><atom:link href="https://baorozcoc.github.io/plantilla-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accesorios</title>
+      <link>https://baorozcoc.github.io/plantilla-hugo/posts/accesorios/</link>
+      <pubDate>Fri, 19 Aug 2022 09:51:12 -0500</pubDate>
+      
+      <guid>https://baorozcoc.github.io/plantilla-hugo/posts/accesorios/</guid>
+      <description>Los accesorios</description>
+    </item>
+    
+    <item>
+      <title>Lenguaje</title>
+      <link>https://baorozcoc.github.io/plantilla-hugo/posts/lenguaje/</link>
+      <pubDate>Fri, 19 Aug 2022 09:50:33 -0500</pubDate>
+      
+      <guid>https://baorozcoc.github.io/plantilla-hugo/posts/lenguaje/</guid>
+      <description>El lenguaje</description>
+    </item>
+    
+    <item>
+      <title>Herramientas</title>
+      <link>https://baorozcoc.github.io/plantilla-hugo/herramientas/</link>
+      <pubDate>Fri, 19 Aug 2022 09:45:51 -0500</pubDate>
+      
+      <guid>https://baorozcoc.github.io/plantilla-hugo/herramientas/</guid>
+      <description>Herramientas En esta vista están las herramientas de utilidad</description>
+    </item>
+    
+  </channel>
+</rss>

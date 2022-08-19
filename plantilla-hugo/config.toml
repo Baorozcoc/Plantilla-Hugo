@@ -1,0 +1,13 @@
+baseURL = 'https://baorozcoc.github.io/plantilla-hugo'
+languageCode = 'en-us'
+title = 'Plantilla Hugo'
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+	identifier = "herramientas"
+	name = "Herramientas"
+	title = "Herramientas"
+	url = "/herramientas/"
+	weight = 0
+
